@@ -23,9 +23,18 @@ The repository contains four task notebooks:
 - Jupyter Notebook
 - PyTorch-oriented machine-learning workflows
 
+### Important libraries
+
+- PyTorch
+- NumPy and pandas
+- scikit-learn references in the notebooks
+
 ## Data and references
 
 The notebooks reference the ECG Heartbeat Categorization Dataset and the Dataset of Simulated Intracardiac Transmembrane Voltage Recordings and ECG Signals. Review the source dataset terms before downloading or redistributing data.
+
+- [ECG Heartbeat Categorization Dataset](https://www.kaggle.com/datasets/shayanfazeli/heartbeat)
+- [Simulated intracardiac recordings and ECG signals dataset](https://library.ucsd.edu/dc/object/bb29449106)
 
 ## Usage
 
