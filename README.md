@@ -2,6 +2,10 @@
 
 Notebook implementations for learning cardiac electrophysiology mappings from ECG and simulated intracardiac recordings.
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,jupyter&theme=light" alt="Python, PyTorch, and Jupyter" />
+</p>
+
 ## Overview
 
 The repository contains four task notebooks:
