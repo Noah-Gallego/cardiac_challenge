@@ -21,18 +21,6 @@ The repository contains four task notebooks:
 
 ![Cardiac electrophysiology model visualization](https://noah-readme-assets-v4.vercel.app/Machine-Learning-for-Cardiac-Electrocardiography/notebook-cell15-output0.png)
 
-## Tech stack
-
-- Python
-- Jupyter Notebook
-- PyTorch-oriented machine-learning workflows
-
-### Important libraries
-
-- PyTorch
-- NumPy and pandas
-- scikit-learn references in the notebooks
-
 ## Data and references
 
 The notebooks reference the ECG Heartbeat Categorization Dataset and the Dataset of Simulated Intracardiac Transmembrane Voltage Recordings and ECG Signals. Review the source dataset terms before downloading or redistributing data.
