@@ -17,6 +17,10 @@ The repository contains four task notebooks:
 
 `download_intracardiac_dataset.sh` is provided for downloading the intracardiac dataset. The repository also includes `LICENSE` and `NOTICE` files; retain those notices when reusing the work.
 
+## Preview
+
+![Cardiac electrophysiology model visualization](https://noah-readme-assets-v4.vercel.app/Machine-Learning-for-Cardiac-Electrocardiography/notebook-cell15-output0.png)
+
 ## Tech stack
 
 - Python
